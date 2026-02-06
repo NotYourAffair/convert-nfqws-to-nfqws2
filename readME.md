@@ -5,6 +5,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/your-repo/nfqws-converter.git
+git clone https://github.com/NotYourAffair/convert-nfqws-to-nfqws2/nfqws-converter.git
 cd nfqws-converter
 chmod +x nfqws_converter.py nfqws2-migrate.sh
